@@ -5,4 +5,4 @@ On clicking the donate button, the User will land on the Payment Page where User
 
 ### You can visit my page by clicking below link
 
-https://valibasha28.github.io/payment-gateway-integration/
+https://github.com/valibasha28/sparks-payment-gateway-integration
